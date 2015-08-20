@@ -1,3 +1,7 @@
-nbproject/private
-phpexcel/input.xls
-/data/
+.dub
+docs.json
+__dummy.html
+*.o
+*.obj
+/__test__library__
+build/*
